@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1394078112 source:c:\users\marc\documents\sfml\projects\sfml_zomboids\src\zomboid.cpp
+	"Zomboid.h"
+
+1394076853 c:\users\marc\documents\sfml\projects\sfml_zomboids\include\zomboid.h
+	<SFML/Graphics.hpp>
+
+1394079548 source:c:\users\marc\documents\sfml\projects\sfml_zomboids\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Zomboid.h"
+
